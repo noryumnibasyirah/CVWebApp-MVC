@@ -1,5 +1,0 @@
-controller\ExampleCVController.class
-com\mycompany\cvwebapp\JakartaRestConfiguration.class
-model\CV.class
-com\mycompany\cvwebapp\resources\JakartaEE10Resource.class
-controller\CVController.class
